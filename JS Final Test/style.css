@@ -1,0 +1,17 @@
+#registration-div{
+    margin-top: 20px;
+}
+#login-div{
+    margin-top: 20px;
+    display: none;
+}
+#login-success{
+    margin-top: 20px;
+    display: none;
+}
+.rose:hover{
+    opacity: 0.4;
+}
+#add-div{
+    margin-top: 20px;
+}
